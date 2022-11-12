@@ -73,6 +73,6 @@ if __name__ == "__main__":
     print('\nSolarenergie Vorhersage')
     print('--------------------------------')
     sonnenscheindauer_input = float(input('Bitte geben Sie die Sonnenscheindauer [h] für einen Tag ein: '))
-    globalstrahlung_input = float(input('Bitte geben Sie die durchschnittliche Globalstrahlung für einen Tag ein: '))
+    globalstrahlung_input = float(input('Bitte geben Sie die durchschnittliche Globalstrahlung [W/m^2] für einen Tag ein: '))
     energiedichte_output = float(sonnenscheindauer_input*globalstrahlung_input*b1 + b0)
     print(f'Geschätzte Energiedichte der Solaranlagen der St. Galler Stadtwerke: {0.001*energiedichte_output:.3f} [kWh/m^2]')
