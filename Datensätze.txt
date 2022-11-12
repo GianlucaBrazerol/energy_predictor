@@ -1,0 +1,1 @@
+https://daten.stadt.sg.ch/explore/embed/dataset/strassenverkehrsunfallorte/table/?disjunctive.accidenttype_de&disjunctive.accidentseveritycategory_de&disjunctive.roadtype_de&disjunctive.cantoncode&disjunctive.municipalitycode&disjunctive.gem_name&disjunctive.accidentyear&disjunctive.accidentmonth_de&disjunctive.accidentweekday_de&disjunctive.accidenthour
