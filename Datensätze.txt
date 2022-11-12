@@ -1,2 +1,5 @@
 Wetterdaten:
 https://daten.sg.ch/explore/embed/dataset/wetterdaten-klimamessnetz-kanton-stgallen-tageswerte/table/?sort=date&refine.station_location=St.%20Gallen&exclude.station_location=S%C3%A4ntis&exclude.station_location=Bad%20Ragaz
+
+Solaranlage:
+https://daten.stadt.sg.ch/explore/dataset/stromproduktion-der-solaranlagen-der-stgaller-stadtwerke/table/?disjunctive.name&disjunctive.smart_me_name&disjunctive.modultyp&disjunctive.leistung_modul_in_wp
